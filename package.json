@@ -27,7 +27,6 @@
     "levenshtein"
   ],
   "files": [
-    "src/index.js",
     "umd/string-similarity.min.js",
     "compare-strings.min.js"
   ],
