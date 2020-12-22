@@ -27,7 +27,7 @@
     "levenshtein"
   ],
   "files": [
-    "string-similarity.min.js",
+    "umd/string-similarity.min.js",
     "compare-strings.min.js"
   ],
   "author": "Akash Kurdekar <npm@kurdekar.com> (http://untilfalse.com/)",
