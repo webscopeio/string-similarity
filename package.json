@@ -2,7 +2,7 @@
   "name": "string-similarity",
   "version": "4.0.2",
   "description": "Finds degree of similarity between strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance.",
-  "main": "src/index.js",
+  "main": "compare-strings.min.js",
   "scripts": {
     "babel": "babel --minified compare-strings.js > compare-strings.min.js",
     "test": "jasmine --config=src/spec/support/jasmine.json",
